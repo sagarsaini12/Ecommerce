@@ -2,7 +2,7 @@
 
 # 🛒 E-Commerce Website (Frontend)
 
-This is a fully responsive E-Commerce website built using HTML, CSS, and JavaScript.  
+This is a fully responsive E-Commerce website built using React.js , Tailwind CSS, HTML and JavaScript.  
 The project simulates an online shopping platform with product listings, cart functionality, and interactive UI.
 
 ---
