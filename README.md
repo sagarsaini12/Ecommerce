@@ -29,7 +29,8 @@ The project simulates an online shopping platform with product listings, cart fu
 ---
 
 ## 🛠 Tech Stack
-
+- React.js
+- Tailwind CSS
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
