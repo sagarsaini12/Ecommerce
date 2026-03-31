@@ -12,6 +12,7 @@ The project simulates an online shopping platform with product listings, cart fu
 
 <img width="1905" height="864" alt="Screenshot 2026-02-20 205253" src="https://github.com/user-attachments/assets/67ac51c4-8139-4fd7-9e82-e190fdb963bc" />
 
+<img width="1896" height="765" alt="Screenshot 2026-01-06 155857" src="https://github.com/user-attachments/assets/3df5b061-0e82-472e-a1fe-796ed114110c" />
 
 
 ## 🚀 Features
